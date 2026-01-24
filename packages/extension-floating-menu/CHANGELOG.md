@@ -1,5 +1,54 @@
 # Change Log
 
+## 3.17.0
+
+### Patch Changes
+
+- Updated dependencies [eecf1c9]
+  - @tiptap/core@3.17.0
+  - @tiptap/pm@3.17.0
+
+## 3.16.0
+
+### Minor Changes
+
+- 9516ee0: Add updateEvent support for FloatingMenu to allow programmatic position updates via `setMeta('floatingMenu', 'updatePosition')`
+
+### Patch Changes
+
+- @tiptap/core@3.16.0
+- @tiptap/pm@3.16.0
+
+## 3.15.3
+
+### Patch Changes
+
+- Updated dependencies [8f86f06]
+  - @tiptap/core@3.15.3
+  - @tiptap/pm@3.15.3
+
+## 3.15.2
+
+### Patch Changes
+
+- @tiptap/core@3.15.2
+- @tiptap/pm@3.15.2
+
+## 3.15.1
+
+### Patch Changes
+
+- @tiptap/core@3.15.1
+- @tiptap/pm@3.15.1
+
+## 3.15.0
+
+### Patch Changes
+
+- Updated dependencies [ac8361c]
+  - @tiptap/core@3.15.0
+  - @tiptap/pm@3.15.0
+
 ## 3.14.0
 
 ### Patch Changes

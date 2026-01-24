@@ -1,5 +1,67 @@
 # @tiptap/extension-drag-handle
 
+## 3.17.0
+
+### Minor Changes
+
+- a7ab5df: Added nested drag handle support, allowing drag handles to appear for nested content like list items and blockquotes with configurable edge detection and custom rules.
+
+### Patch Changes
+
+- eecf1c9: Fixed Firefox bug where the text caret becomes invisible after drag and drop.
+- Updated dependencies [eecf1c9]
+  - @tiptap/core@3.17.0
+  - @tiptap/extension-collaboration@3.17.0
+  - @tiptap/extension-node-range@3.17.0
+  - @tiptap/pm@3.17.0
+
+## 3.16.0
+
+### Patch Changes
+
+- @tiptap/core@3.16.0
+- @tiptap/extension-collaboration@3.16.0
+- @tiptap/extension-node-range@3.16.0
+- @tiptap/pm@3.16.0
+
+## 3.15.3
+
+### Patch Changes
+
+- Updated dependencies [8f86f06]
+  - @tiptap/core@3.15.3
+  - @tiptap/extension-collaboration@3.15.3
+  - @tiptap/extension-node-range@3.15.3
+  - @tiptap/pm@3.15.3
+
+## 3.15.2
+
+### Patch Changes
+
+- @tiptap/core@3.15.2
+- @tiptap/extension-collaboration@3.15.2
+- @tiptap/extension-node-range@3.15.2
+- @tiptap/pm@3.15.2
+
+## 3.15.1
+
+### Patch Changes
+
+- @tiptap/core@3.15.1
+- @tiptap/extension-collaboration@3.15.1
+- @tiptap/extension-node-range@3.15.1
+- @tiptap/pm@3.15.1
+
+## 3.15.0
+
+### Patch Changes
+
+- Updated dependencies [ac8361c]
+  - @tiptap/core@3.15.0
+  - @tiptap/extension-collaboration@3.15.0
+  - @tiptap/extension-node-range@3.15.0
+  - @tiptap/pm@3.15.0
+
 ## 3.14.0
 
 ### Patch Changes
